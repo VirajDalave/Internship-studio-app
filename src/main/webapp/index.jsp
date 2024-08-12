@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kastro Kiran V</title>
-    <link rel="stylesheet" type="text/css" href="kastro.css">
+    <title>Viraj Dalave</title>
+    <link rel="stylesheet" type="text/css" href="viraj.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         body {
@@ -69,7 +69,7 @@
     <div class="container">
         <div class="content">
             <h1Hello ... ! <span class="name">Cloud Enthusiast !</span></h1>
-            <p>My name is <span class="highlighted-name">Kastro</span>, I am an <span class="trainer">AWS and DevOps Trainer</span>.</p>
+            <p>My name is <span class="highlighted-name">Viraj</span>, I am an <span class="trainer">AWS and DevOps</span>.</p>
             <p class="curriculum"><em>My Recommended curriculum to become a DevOps Engineer:</em></p>
             <p><strong>AWS Concepts:</strong> Introduction to Cloud, Cloud Service Providers, AWS Global Infrastructure, S3, EFS, EC2, Auto Scaling, Load Balancers, VPC, IAM, RDS, Dynamo DB, SNS, Cloud Watch, LighSail, Cloud Trial, SQS, SES, Route 53, SnowBall, Elastic BeanStalk, Cloud Formation</p>
             <p><strong>Linux and Shell Scripting</strong></p>
@@ -81,8 +81,8 @@
                 <a href="https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh" target="_blank">
                     <button class="docker-button"><i class="fab fa-docker"></i> Docker - Basics to Brilliance</button>
                 </a>
-                <a href="https://www.linkedin.com/in/kastro-kiran/" target="_blank">
-                    <button class="linkedin-button"><i class="fab fa-linkedin"></i> Kastro - LinkedIn</button>
+                <a href="https://www.linkedin.com/in/viraj-dalave-0201ba22a" target="_blank">
+                    <button class="linkedin-button"><i class="fab fa-linkedin"></i> Viraj - LinkedIn</button>
                 </a>
             </p>
         </div>
@@ -92,7 +92,7 @@
         <img src="https://media.licdn.com/dms/image/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/0/1718971147172?e=1724284800&v=beta&t=HJC2dPANaLQK7Rs4P6UoZvRAdz0Se5s5js9SvlzhXXI" alt="Profile Image" class="profile-image">
     </div>
     <div class="copyright">
-        <span class="icon">&copy;</span> Kastro
+        <span class="icon">&copy;</span> Viraj
     </div>
 </body>
 </html>
